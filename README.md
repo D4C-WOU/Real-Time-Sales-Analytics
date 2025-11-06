@@ -18,23 +18,6 @@ Real-Time Sales Analytics is a complete data analysis project focused on uncover
 - **Google Looker Studio** (dashboards)
 - **CSV** (for structured exports)
 
-## Repository Structure
-├── Sales Analytics .ipynb # Python analysis notebook
-├── finaldb.sql # MySQL schema and data dump
-├── tasks.sql # Core SQL queries for analysis
-├── Final_Dashboard.pdf # Completed, visual dashboard (sample)
-├── Sales_Dashboard-1.pdf # Earlier version dashboard (sample)
-├── top_5_products_mobile_tablets.csv # Top products data export
-├── top_20_sales_decrease.csv # Decrease analysis export
-├── largest_decrease_sales_periods.csv # Period decrease export
-├── sales_trend_category.csv # Category trend export
-├── Q4WeekdaayandWeekendSales.csv # Q4 sales export
-├── IncompletePayment.csv # Customer drop-off export
-├── training/ # Practice & test data/scripts
-└── README.md # You are here!
-undefined
-
-
 ## Project Tasks
 1. **Top 5 Products by Sales (2022, Mobiles & Tablets):**  
    Horizontal bar chart of top sellers using valid orders only.
