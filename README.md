@@ -19,7 +19,6 @@ Real-Time Sales Analytics is a complete data analysis project focused on uncover
 - **CSV** (for structured exports)
 
 ## Repository Structure
-
 ├── Sales Analytics .ipynb # Python analysis notebook
 ├── finaldb.sql # MySQL schema and data dump
 ├── tasks.sql # Core SQL queries for analysis
