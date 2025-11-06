@@ -98,7 +98,6 @@ cd Real-Time-Sales-Analytics
 ---
 
 ## File Structure
-
 Real-Time-Sales-Analytics/
 ├── internship csv files/         # Directory containing internship CSV datasets for analysis
 ├── training/                    # Directory for training-related CSV files (recently updated/deleted files)
@@ -108,6 +107,7 @@ Real-Time-Sales-Analytics/
 ├── Sales Analytics .ipynb       # Jupyter Notebook containing Python analysis and visualizations
 ├── finaldb.sql                  # MySQL database schema and dataset import for analysis
 ├── tasks.sql                    # SQL file containing specific task-related queries for the project
+
 
 
 ---
