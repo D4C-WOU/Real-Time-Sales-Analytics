@@ -83,4 +83,3 @@ Use CSV exports for Google Looker Studio or other BI tools.
 
 License
 This project is made for academic and demonstration purposes only.
-
